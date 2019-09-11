@@ -17,3 +17,13 @@ print("hello")
 *RD_test
  *RD_test1 
   *RD_test2 
+
+##테이블
+First Header | Second Header
+------------ | ------------- |
+content cell 1 | content cell 2
+content column1 | content column2
+
+##체크박스
+- [x] this is a complete item
+- [ ] this is an incomplete item

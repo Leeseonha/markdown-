@@ -17,8 +17,8 @@ print("hello")
 ##테이블
 First Header | Second Header
 ------------ | ------------- |
-content cell 1 | content cell 2
-content column1 | content column2
+Content cell 1 | Content cell 2
+Content column1 | Content column2
 
 ##체크박스
 - [x] this is a complete item

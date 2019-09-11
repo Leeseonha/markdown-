@@ -8,3 +8,6 @@ markdown(--누르면 h2)
 ###안녕
 ####안녕
 #####안녕
+```python:
+print("hello")
+```
